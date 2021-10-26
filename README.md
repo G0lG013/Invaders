@@ -1,5 +1,5 @@
 # Unescapable
-## This repository was made for us to collaborate on our final game project.
+## This repository was created in order to develop on our game project.
 Vanier College, Computer Science Technology, Fall 2021, Game Programming, Tassia Camoes-Araujo.
 ## Description
 Unescapable was inspired by games like Left For Dead for a zombie world, and several RPG game like Zenonia,...
