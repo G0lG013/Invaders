@@ -1,0 +1,25 @@
+Game Idea:
+Making an RPG game that takes place in a world full of zombies. The player must break through every mission, meet every conditions to end the game. During the game, the player will engage with zombies and must interact with some npcs to complete the mission. In addition, we will add some dialog to appear during the game.
+
+Character Desciption:
+For this game, we will use top down image and we will plan to make the game half pixel-like.
+
+1. The MC will be the Survivor (John), who wear dark green clothes and armed with 3 weapons.
+
+2. There's also a girl NPC which follows the MC after the player found her. This girl is  important in the game since she is the key to 
+complete the mission.
+
+Character's goals is to follow the given mission, and go until the end, then the player will enage with a tons of zombie (last fight).
+
+
+Win condition: is to get to the end of the story and hold there for certain amount of time given on screen then, the rescuer would come to save the survivor and the girl.
+
+Lost Condition: is to drop health to zero as the survivor gets bitten by the zombies.
+
+Progression of Levels: The game will have no power up for either the player and the zombies. But there would be a story line or a quest line, where the player must finish each mission to get to the other and lastly, to the end game.
+
+Inspiration:
+Unescapable was inspired by games like Left For Dead for a zombie world, and some other RPG game like Zenonia,...
+
+What skills/interests:
+we only need a member that has basic programming skills or basic art skills.
